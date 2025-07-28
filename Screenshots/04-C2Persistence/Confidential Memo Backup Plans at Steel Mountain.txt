@@ -1,0 +1,86 @@
+Confidential Memo: Backup Plans at Steel Mountain
+Subject: Contingency and Backup Plans – Steel Mountain
+From: Internal Security Division
+To: Operations
+
+Overview:
+This document outlines the strategic protocols, fail-safes, and contingency plans in place for Steel Mountain, ECorp's primary data storage and disaster recovery facility. As one of the most secure and fortified locations in the world, Steel Mountain's backup strategies are critical to ensuring the uninterrupted operations of ECorp's global financial systems.
+
+1. Physical Backup Redundancy
+
+Steel Mountain holds the entirety of ECorp's off-site backups, designed to safeguard against both natural disasters and deliberate attacks on primary data centers. Backups here are structured in tiered levels of security and redundancy, distributed across multiple fire-safe and EMP-hardened vaults.
+
+Data Mirrors:
+
+Full system mirrors from ECorp’s data centers are stored on-site, updated in real-time through encrypted fiber optic connections. These mirrors are distributed across three secure zones to avoid a single point of failure.
+Tiered Storage System:
+
+Tier 1: Critical financial records, updated every 15 minutes.
+Tier 2: Operational backups, including employee databases, updated hourly.
+Tier 3: Legacy and archival backups, retained indefinitely for historical reference.
+Air-Gapped Systems:
+
+For the highest level of security, certain data backups are housed on air-gapped systems, isolated from external networks. These backups are accessible only via direct physical intervention, providing a fail-safe against network-based attacks, including ransomware and advanced persistent threats (APT).
+2. Disaster Recovery Protocols
+
+Steel Mountain’s disaster recovery (DR) protocols are designed to ensure business continuity in case of catastrophic events, including system failures, natural disasters, or coordinated cyber-attacks.
+
+Data Recovery Time Objectives (RTO):
+
+The RTO for all Tier 1 critical systems is set at 60 minutes, with fully automated failover procedures in place to minimize downtime.
+Warm Site Activation:
+
+A warm site mirroring Steel Mountain’s capabilities exists at a classified location. Should Steel Mountain experience a total operational failure, the warm site will activate within 90 minutes, taking over full data storage and recovery responsibilities. The handover process is seamless to avoid data loss or delays in access.
+Chain of Command:
+
+In the event of a system-wide failure, Steel Mountain’s Security Operations Center (SOC) initiates a predefined chain of command to manage data restoration efforts. Security officers in ECorp’s Disaster Recovery Team are authorized to execute these protocols, with a full spectrum of recovery drills performed quarterly to ensure readiness.
+3. Environmental and Human Threat Countermeasures
+
+Steel Mountain’s design mitigates risks posed by environmental threats (floods, earthquakes) and human-based threats (insider attacks, sabotage, terrorism).
+
+Climate Control:
+
+The facility’s climate systems are equipped with real-time monitoring and automatic shutdown mechanisms to protect storage vaults from overheating or humidity spikes.
+Human Threat Response:
+
+All personnel with access to critical systems undergo extensive background checks and are subject to behavioral analytics to detect signs of insider threat activity. Biometric access is required for any interaction with critical backup storage.
+Tiered Access Control:
+
+Tier 1 data vaults are restricted to a core security team, with biometric access, retina scans, and security escorts required at all times. Only executive personnel can authorize entry into air-gapped vaults, and such actions are logged and reviewed in real time.
+4. Emergency Power Systems
+
+To maintain operational integrity during power outages, Steel Mountain is equipped with multiple redundant power supplies:
+
+Primary Power Source: High-capacity, grid-tied with real-time failover capability.
+Backup Generators: On-site diesel generators provide up to 72 hours of uninterrupted power in case of grid failure.
+Tertiary Battery Systems: If generators are compromised, a battery array can sustain critical operations for an additional 12 hours.
+Fuel Supply: Diesel for generators is stored in underground tanks, secured in blast-proof enclosures to prevent tampering or sabotage.
+
+5. Chain of Custody for Data Access and Recovery
+
+Steel Mountain employs strict protocols for access to backup data and recovery operations:
+
+Two-Person Integrity:
+No single individual can access backup systems or initiate recovery procedures. A two-person integrity (TPI) system is enforced, requiring two authorized individuals to authenticate any action.
+Data Access Auditing:
+All access to backup storage systems is fully logged, with real-time auditing to detect anomalies. If unauthorized access is attempted, a lockout protocol is automatically triggered, and SOC is alerted for immediate response.
+6. Attack Scenarios and Mitigation
+
+Scenario A:
+Internal Breach by a Disgruntled Employee
+Mitigation: Behavioral analytics and privilege separation prevent unauthorized data access. All suspicious activities are immediately flagged for review.
+
+Scenario B:
+Coordinated Physical Attack on Data Vaults
+Mitigation: Vaults are EMP-hardened and equipped with physical security measures including biometric locks, armed guards, and isolation zones.
+
+Scenario C:
+Cyber Attack Targeting Backup Systems
+Mitigation: Air-gapped backups remain inaccessible to external threats. Any attempt to breach network-connected storage triggers immediate shutdown protocols, isolating the vaults.
+
+7. Final Words
+
+Steel Mountain represents ECorp’s last line of defense against a world intent on destabilizing our operations. Our layered, redundant, and impenetrable backup systems ensure that no attack—physical or digital—can erase the records that drive the global economy. Should ECorp face an existential threat, Steel Mountain will remain our sanctuary, a fortress of data in a world under siege.
+
+End of Document
+Classification:  Authorized Personnel Only
